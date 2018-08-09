@@ -34,6 +34,7 @@ rails '5.2.0'
 
 ## Nouvelles Gems utilisées
 ```stripe``` pour ajouter un service de paiement à notre site web.
+
 ```mailjet``` pour envoyer un email de confirmation à celles et ceux qui se sont enregistrés sur notre newsletter. 
 
 NB: pour le déploiement Heroku, on a utilisé un clé master rails. 
